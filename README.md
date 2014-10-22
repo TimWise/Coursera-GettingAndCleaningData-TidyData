@@ -1,7 +1,7 @@
 Course project for Getting and Cleaning Data on Coursera
 =====================
 
-This project is an example of how to collect, work with, and clean a raw data 
+This is an example of how to collect, work with, and clean a raw data 
 set, creating a tidy data set that can be used for further analysis.
 
 The raw data is a set of measurements from the accelerometers in smart phones
@@ -21,6 +21,12 @@ create the tidy data from the raw data
 
 How the analysis script works
 =====================
+##	The raw data
+The raw data is a set of data files. The best way to understand the relationship 
+between the files is with a picture. (This is from 
+[David's project FAQ](https://class.coursera.org/getdata-008/forum/thread?thread_id=24)
+thread on the course discussion forum.)
+![alt text](https://coursera-forum-screenshots.s3.amazonaws.com/ab/a2776024af11e4a69d5576f8bc8459/Slide2.png "The Raw Data")
 
 Example of how to read in the tidy data set
 =====================
