@@ -51,6 +51,6 @@ In this analysis, we glued the multiple raw files into single data set in the fo
 
 Example of how to read in the tidy data set
 =====================
-The tidy data can easily be read in with the following code:
->	tidydata <- read.csv(...)
+After running the script, the tidy data summary created by by the script can be read in with the following code:
+>	tidy_summary <- read.csv("tidy_data_summary.csv", stringsAsFactors=FALSE)
 
