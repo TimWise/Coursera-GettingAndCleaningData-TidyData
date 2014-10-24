@@ -134,6 +134,7 @@ tidy_colnames <-
     )
   )
 str(tidy_colnames)
+sort(tidy_colnames)
 
 colnames(tidy_X) <- tidy_colnames
 str(tidy_X)
